@@ -2,8 +2,13 @@ body {
   background:silver;
 }
 
+#h2 {
+  text-align: center;
+  color: darkred;
+}
+
 #titel {
-  color: white;
+
   text-align: center;
 }
 
@@ -34,4 +39,21 @@ body {
   margin-right: auto;
   width: 50%;
   height: 50%;
+}
+#table {
+        border: 1px solid #3a373752;
+        width: 100%;
+        border-radius: 5px;
+        overflow: hidden;
+
+      }
+
+#div {
+  text-align: center;
+}
+
+#table, th, td {
+ border: 1px solid black;
+ width: auto;
+
 }
