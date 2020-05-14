@@ -1,5 +1,5 @@
 body {
-  background:silver;
+  background:lightblue;
 }
 
 #h2 {
@@ -28,8 +28,8 @@ body {
   color: darkred;
 }
 
-#succes {
-  color: darkgreen;
+.boxed {
+  border: 1px solid green ;
   text-align: center;
 }
 
@@ -39,7 +39,9 @@ body {
   margin-right: auto;
   width: 50%;
   height: 50%;
+  border-radius: 50%;
 }
+
 #table {
         border: 1px solid #3a373752;
         width: 100%;
